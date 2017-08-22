@@ -1,0 +1,38 @@
+,,,,,,,,,,,,
+Project,Vendor,Subcontract,Subcontract Description,Subcontract Date,Subcontract Retainage Percent,Subcontract Line CMR,Subcontract Line Number,Subcontract Line Description,Subcontract Line Original Amount,Subcontract Line Change Amount,Subcontract Line Cost Code,Subcontract Line Cost Type
+03275,NELSO001,00000008,Casework/Millwork,6/12/2017 12:00:00 AM,10,,1,Casework/Millwork,64595,0,01.06.400,Subcont
+03275,MURPH001,00000004,HVAC and Plumbing,6/2/2017 12:00:00 AM,10,,1,HVAC and Plumbing,1219800,0,01.15.500,Subcont
+03275,ETGFI001,00000014,Clean Agent Fire Protection,6/30/2017 12:00:00 AM,10,,1,Clean Agent Fire Protection,170520,0,01.15.350,Subcont
+03275,CREAT002,00000006,Structural Metal Framing,6/9/2017 12:00:00 AM,10,,1,Metal Fabrications,25425,0,01.05.100,Subcont
+03275,CREAT002,00000006,Structural Metal Framing,6/9/2017 12:00:00 AM,10,105,2,Demo metal decking,0,500,01.05.100,Subcont
+03275,CREAT002,00000006,Structural Metal Framing,6/9/2017 12:00:00 AM,10,108,3,Additonal trench covers,0,750,01.05.500,Subcont
+03275,CONCR003,00000010,Polished Concrete,6/14/2017 12:00:00 AM,10,,1,Polished Concrete,23050,0,01.09.690,Subcont
+03275,SPACE001,00000005,Drywall- Revised 6/6/17,6/2/2017 12:00:00 AM,10,,1,Drywall,981800,0,01.09.250,Subcont
+03275,SPACE001,00000005,Drywall- Revised 6/6/17,6/2/2017 12:00:00 AM,10,104,2,Add labor and material for 1/2&quot; FR plywood at Secure walls,0,67960,01.09.250,Subcont
+03275,ADVAN004,00000009,General Flooring,6/14/2017 12:00:00 AM,10,,1,General Flooring,226066.39,0,01.09.600,Subcont
+03275,COLOR006,00000013,Bath Accessories,6/23/2017 12:00:00 AM,10,,1,Bath Accessories,101598,0,01.10.800,Subcont
+03275,COMME004,00000012,Paint,6/20/2017 12:00:00 AM,10,,1,Paint,88200,0,01.09.900,Subcont
+03275,MERIT001,00000002,Electrical,6/6/2017 12:00:00 AM,10,,1,Electrical,1009505,0,01.16.010,Subcont
+03275,HEART001,00000011,Acoustical Ceiling,6/13/2017 12:00:00 AM,10,,1,Acoustical Ceiling,116040,0,01.09.510,Subcont
+03275,HEART001,00000011,Acoustical Ceiling,6/13/2017 12:00:00 AM,10,116,2,Conf rm G ceiling,0,179,01.09.510,Subcont
+03275,EAPGL001,00000003,Storefront and Entrances,6/22/2017 12:00:00 AM,10,,1,Entrances and Storefronts,36779,0,01.08.400,Subcont
+03275,FRONT001,00000007,Fire Protection,6/9/2017 12:00:00 AM,10,,1,Fire Protection,87890,0,01.15.300,Subcont
+03275,COLLI001,00000001,"PO Doors, Hardware and Frames",6/9/2017 12:00:00 AM,0,,1,"Doors, Hardware and Frames",164084.95,0,01.08.100,Material
+03275,TECTA001,00000015,Membrane Roofing,6/30/2017 12:00:00 AM,10,,1,Membrane Roofing,29879,0,01.07.500,Subcont
+03275,MURPH001,00000004,HVAC and Plumbing,6/2/2017 12:00:00 AM,10,,1,HVAC and Plumbing,0,0,01.15.500,Subcont
+03275,MURPH001,00000004,HVAC and Plumbing,6/2/2017 12:00:00 AM,10,,1,HVAC and Plumbing,0,0,01.15.500,Subcont
+03275,CREAT002,00000006,Structural Metal Framing,6/9/2017 12:00:00 AM,10,,1,Metal Fabrications,0,0,01.05.100,Subcont
+03275,CREAT002,00000006,Structural Metal Framing,6/9/2017 12:00:00 AM,10,105,2,Demo metal decking,0,0,01.05.100,Subcont
+03275,CREAT002,00000006,Structural Metal Framing,6/9/2017 12:00:00 AM,10,108,3,Additonal trench covers,0,0,01.05.500,Subcont
+03275,SPACE001,00000005,Drywall- Revised 6/6/17,6/2/2017 12:00:00 AM,10,,1,Drywall,0,0,01.09.250,Subcont
+03275,SPACE001,00000005,Drywall- Revised 6/6/17,6/2/2017 12:00:00 AM,10,,1,Drywall,0,0,01.09.250,Subcont
+03275,SPACE001,00000005,Drywall- Revised 6/6/17,6/2/2017 12:00:00 AM,10,104,2,Add labor and material for 1/2&quot; FR plywood at Secure walls,0,0,01.09.250,Subcont
+03275,SPACE001,00000005,Drywall- Revised 6/6/17,6/2/2017 12:00:00 AM,10,104,2,Add labor and material for 1/2&quot; FR plywood at Secure walls,0,0,01.09.250,Subcont
+03275,ADVAN004,00000009,General Flooring,6/14/2017 12:00:00 AM,10,,1,General Flooring,0,0,01.09.600,Subcont
+03275,COMME004,00000012,Paint,6/20/2017 12:00:00 AM,10,,1,Paint,0,0,01.09.900,Subcont
+03275,MERIT001,00000002,Electrical,6/6/2017 12:00:00 AM,10,,1,Electrical,0,0,01.16.010,Subcont
+03275,MERIT001,00000002,Electrical,6/6/2017 12:00:00 AM,10,,1,Electrical,0,0,01.16.010,Subcont
+03275,FRONT001,00000007,Fire Protection,6/9/2017 12:00:00 AM,10,,1,Fire Protection,0,0,01.15.300,Subcont
+03275,FRONT001,00000007,Fire Protection,6/9/2017 12:00:00 AM,10,,1,Fire Protection,0,0,01.15.300,Subcont
+03275,COLLI001,00000001,"PO Doors, Hardware and Frames",6/9/2017 12:00:00 AM,0,,1,"Doors, Hardware and Frames",0,0,01.08.100,Material
+,,,,,,,,,,,,
